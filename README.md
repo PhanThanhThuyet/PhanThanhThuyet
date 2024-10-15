@@ -20,7 +20,6 @@
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- ⚡ Fun fact: Me gustan los girasoles.
 
 I'm a Web Developer from `Code T3C3`
 ---------------------------------

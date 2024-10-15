@@ -1,31 +1,65 @@
-# 👋 Hi, I’m @PhanThanhThuyet
+# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phan Thanh Thuyết aka Yuu
+========================================================================================================================================
 
-## 👀 I’m interested in
-Tôi đam mê công nghệ phần mềm và luôn tìm kiếm cách để cải thiện kỹ năng của mình. Một số lĩnh vực tôi quan tâm bao gồm:
-- **Phát triển phần mềm**: Tạo ra các ứng dụng sáng tạo và giải pháp phần mềm hữu ích.
-- **Thiết kế hệ thống**: Phân tích và xây dựng kiến trúc cho các hệ thống phức tạp, đảm bảo hiệu suất và khả năng mở rộng.
-- **DevOps và CI/CD**: Tích hợp quy trình phát triển và vận hành để tăng cường tính linh hoạt và độ tin cậy.
+I'm a Web Developer from `Code Lyoko Team`
+---------------------------------
+`Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
 
-## 🌱 I’m currently learning
-Tôi luôn nỗ lực để nâng cao kiến thức và kỹ năng của mình. Hiện tại, tôi đang học:
-- **Python**: Khám phá các framework như Django và Flask để phát triển ứng dụng web mạnh mẽ.
-- **JavaScript**: Làm quen với React và Redux để xây dựng giao diện người dùng tương tác và hiệu quả.
-- **Containerization**: Tìm hiểu về Docker và Kubernetes để quản lý và triển khai ứng dụng một cách hiệu quả hơn.
+* 🌍  I'm based in Vietnam
+* 👨‍🎓  Studied at Open University (OU HCMC)
+* 🖥️  See my portfolio website at [thanhnamnguyen.dev](https://www.thanhnamnguyen.dev/)
+* 📝  Blog at [blog.thanhnamnguyen.dev](https://blog.thanhnamnguyen.dev/)
+* ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
 
-## 💞️ I’m looking to collaborate on
-Tôi rất mong muốn hợp tác với các bạn trên những dự án thú vị. Các lĩnh vực tôi muốn tham gia bao gồm:
-- **Dự án mã nguồn mở**: Cống hiến vào các dự án mà tôi có thể học hỏi và chia sẻ kinh nghiệm.
-- **Ứng dụng web và di động**: Phát triển các ứng dụng mang lại giá trị cho người dùng.
-- **Giải pháp công nghệ**: Tham gia vào việc tạo ra các công cụ và quy trình giúp cải thiện phát triển phần mềm.
+### Skills
 
-## 📫 How to reach me
-Tôi rất vui được kết nối với bạn! Bạn có thể liên hệ với tôi qua:
-- **Email**: phanthanhthuyet@example.com
-- **LinkedIn**: [Phan Thanh Thuyet](https://www.linkedin.com/in/phanthanhthuyet)
-- **Twitter**: [@PhanThanhThuyet](https://twitter.com/yourhandle) (nếu có)
+I create projects just for fun and to train my skills...
 
-## 😄 Pronouns
-- Anh/Em
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+</p>
 
-## ⚡ Fun fact
-Ngoài việc lập trình, tôi thích tham gia hackathon và đã từng giành giải trong một số sự kiện. Tôi cũng là một người yêu thích sách, đặc biệt là sách về công nghệ và phát triển bản thân. Trong thời gian rảnh, tôi thường tham gia các khóa học trực tuyến để khám phá những công nghệ mới và phát triển bản thân hơn nữa!
+### Socials
+
+<p align="left">
+<a href="https://www.codepen.io/namnguyenthanhwork" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
+    </picture>
+</a>
+<a href="https://www.github.com/namnguyenthanhwork" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+</a>
+<a href="https://blog.thanhnamnguyen.dev" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+    </picture>
+</a>
+<a href="https://www.linkedin.com/in/thanhnamnguyen16" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+</a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/namnguyenthanhwork"><img src="https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="namnguyenthanhwork's GitHub stats" /></a>
+
+<a href="http://www.github.com/namnguyenthanhwork"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+Thanks for stopping by, and I look forward to connecting with you soon!
+
+You can create your README profile at [https://www.profileme.dev/](https://www.profileme.dev/)

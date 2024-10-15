@@ -44,25 +44,30 @@ I'm a Web Developer from `Code Lyoko Team`
 <div align="left">
 
 ```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
- */
+## 👀 I’m interested in
+- Phát triển phần mềm
+- Thiết kế hệ thống
+- DevOps và CI/CD
+
+## 🌱 I’m currently learning
+- Python và các framework như Django và Flask
+- React và Redux cho phát triển ứng dụng web
+- Docker và Kubernetes cho quản lý container
+
+## 💞️ I’m looking to collaborate on
+- Dự án mã nguồn mở trong lĩnh vực công nghệ phần mềm
+- Các ứng dụng web và di động
+- Các giải pháp cải thiện quy trình phát triển phần mềm
+
+## 📫 How to reach me
+- Email: phanthanhthuyet@example.com
+- LinkedIn: [Phan Thanh Thuyet](https://www.linkedin.com/in/phanthanhthuyet)
+
+## 😄 Pronouns
+- Anh/Em
+
+## ⚡ Fun fact
+- Tôi thích tham gia hackathon và đã từng giành giải trong một số sự kiện!
 ```
 
 </div>

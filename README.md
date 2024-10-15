@@ -1,4 +1,4 @@
-# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phan Thanh Thuyết 
+# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phan Thanh Thuyết aka Yuu
 ========================================================================================================================================
 
 I'm a Web Developer from `Code Lyoko Team`
@@ -10,7 +10,6 @@ I'm a Web Developer from `Code Lyoko Team`
 * 🖥️  See my portfolio website at [thanhnamnguyen.dev](https://www.thanhnamnguyen.dev/)
 * 📝  Blog at [blog.thanhnamnguyen.dev](https://blog.thanhnamnguyen.dev/)
 * ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
-
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
@@ -44,29 +43,6 @@ I'm a Web Developer from `Code Lyoko Team`
 <div align="left">
 
 ```js
-## 👀 I’m interested in
-- Phát triển phần mềm
-- Thiết kế hệ thống
-- DevOps và CI/CD
-
-## 🌱 I’m currently learning
-- Python và các framework như Django và Flask
-- React và Redux cho phát triển ứng dụng web
-- Docker và Kubernetes cho quản lý container
-
-## 💞️ I’m looking to collaborate on
-- Dự án mã nguồn mở trong lĩnh vực công nghệ phần mềm
-- Các ứng dụng web và di động
-- Các giải pháp cải thiện quy trình phát triển phần mềm
-
-## 📫 How to reach me
-- Email: phanthanhthuyet@example.com
-- LinkedIn: [Phan Thanh Thuyet](https://www.linkedin.com/in/phanthanhthuyet)
-
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -91,7 +67,6 @@ I'm a Web Developer from `Code Lyoko Team`
 - 💬 Ask me about Sql, Java, C#, JavaScript
   
 - ⚡ Fun fact: Me gustan los girasoles.
-
 ```
 
 </div>

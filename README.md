@@ -14,25 +14,23 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
+🔭 Hiện tại tôi đang là sinh viên năm 3 trường Huflit
+
+🌱 Tôi đang học Git, Java và GitHub
+
+👯 Tôi đang tìm kiếm cơ hội hợp tác trên các dự án
   
 
 I'm a Web Developer from `Code T3C3`
 ---------------------------------
-`Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
+`T3C3` Tôi là một học sinh đang học về lập trình và phát triển web. Hiện tại, tôi đang tìm hiểu về Git, Java và GitHub. Tôi mong muốn hợp tác với những người khác trên các dự án thú vị. Tôi cũng là một người hâm mộ bộ phim hoạt hình Code Lyoko, và tôi đã lấy cảm hứng từ bộ phim này để đặt tên cho đội của mình.
 
 * 🌍  I'm based in Vietnam
 * 👨‍🎓  Studied at HUFLIT University 
 * 🖥️  See my portfolio website at (https://github.com/PhanThanhThuyet)
 * 📝  Blog at 
 * ✉️  You can contact me at [phanthanhthuyet1@gmail.com](mailto:phanthanhthuyet@gmail.com)
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -63,16 +61,12 @@ I'm a Web Developer from `Code T3C3`
 <div align="left">
 
 ```js
+🔭 Hiện tại tôi đang là sinh viên năm 3 trường Huflit
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+🌱 Tôi đang học Git, Java và GitHub
+
+👯 Tôi đang tìm kiếm cơ hội hợp tác trên các dự án
+
 ```
 
 </div>

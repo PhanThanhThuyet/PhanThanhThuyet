@@ -30,9 +30,9 @@ I'm a Web Developer from `Code Lyoko Team`
 
 * 🌍  I'm based in Vietnam
 * 👨‍🎓  Studied at HUflit University 
-* 🖥️  See my portfolio website at [thanhnamnguyen.dev](https://www.thanhnamnguyen.dev/)
-* 📝  Blog at [blog.thanhnamnguyen.dev](https://blog.thanhnamnguyen.dev/)
-* ✉️  You can contact me at [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
+* 🖥️  See my portfolio website at (https://github.com/PhanThanhThuyet)
+* 📝  Blog at 
+* ✉️  You can contact me at [phanthanhthuyet1@gmail.com](mailto:phanthanhthuyet@gmail.com)
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>

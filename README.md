@@ -18,6 +18,8 @@
 🌱 Tôi đang học Git, Java và GitHub
 
 👯 Tôi đang tìm kiếm cơ hội hợp tác trên các dự án
+
+📝 Nếu bạn muốn biết thêm thông tin về tôi mời bạn bấm vào quả cầu POKEMON
   
 
 I'm a Web Developer from `Code T3C3`
@@ -27,7 +29,6 @@ I'm a Web Developer from `Code T3C3`
 * 🌍  I'm based in Vietnam
 * 👨‍🎓  Studied at HUFLIT University 
 * 🖥️  See my portfolio website at (https://github.com/PhanThanhThuyet)
-* 📝  Blog at 
 * ✉️  You can contact me at [phanthanhthuyet1@gmail.com](mailto:phanthanhthuyet@gmail.com)
 
 <p align = "center">

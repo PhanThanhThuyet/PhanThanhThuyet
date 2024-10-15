@@ -24,12 +24,12 @@
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
-I'm a Web Developer from `Code Lyoko Team`
+I'm a Web Developer from `Code T3C3`
 ---------------------------------
 `Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
 
 * 🌍  I'm based in Vietnam
-* 👨‍🎓  Studied at HUflit University 
+* 👨‍🎓  Studied at HUFLIT University 
 * 🖥️  See my portfolio website at (https://github.com/PhanThanhThuyet)
 * 📝  Blog at 
 * ✉️  You can contact me at [phanthanhthuyet1@gmail.com](mailto:phanthanhthuyet@gmail.com)
